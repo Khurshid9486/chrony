@@ -5,10 +5,10 @@
   vars:
     shhirose_chrony_servers:
       - type: server
-        name: prdx-ntp601.ziyotek.local
+        name: prdx-ntp601.ziyotek6.local
         options: iburst
       - type: server
-        name: prdx-ntp602.ziyotek.local
+        name: prdx-ntp602.ziyotek6.local
         options: iburst
     shhirose_chrony_logrotate_extra_params:
       - rotate 7
